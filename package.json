@@ -2,7 +2,7 @@
   "name": "cadence",
   "version": "1.0.1",
   "private": false,
-  "homepage": "https://mysteri0usdrx.github.io/cadence",
+  "homepage": "https://github.com/Afranks504/mvpproject.git",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "@material-ui/icons": "^3.0.2",
