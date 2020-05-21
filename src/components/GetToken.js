@@ -5,7 +5,7 @@ class GetToken extends Component {
 
     tokenRequestUrl() {
         const apiUrl = 'https://accounts.spotify.com/authorize';
-        const clientId = 'aed1fb11b28a4236aafa2241b827155f';
+        const clientId = '01dde9168baf4375afca1ab6390abf40';
         const scopes = ['playlist-modify-public'];
         //Don't want to pass parameters or hashes to spotify api
         const bareUrl = window.location.protocol + '//' + window.location.host + window.location.pathname;
