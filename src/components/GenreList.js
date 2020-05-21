@@ -60,7 +60,7 @@ class GenreList extends Component {
                         autoFocus={true} 
                         isMulti={true} 
                         options={this.state.genres}
-                        placeholder="Choose up to 5 genres (Required)" 
+                        placeholder="Choose genres" 
                     />
                 </ul>
             );

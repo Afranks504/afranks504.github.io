@@ -22,8 +22,7 @@ class App extends Component {
   	  	return(  
   	  	  	<div className="App">
   	  	  	  	<header className="App-header">
-  	  	  	  		<h1>Cadence</h1>
-									<h4><span role="img" aria-label="bike">🚴</span> Workout playlist generator <span role="img" aria-label="run">🏃</span></h4>
+									<h4>Skate Playlist Generator</h4>
   	  	  	  	</header>
   	  	  	  	<Body 
   	  	  	  		token={this.props.accessToken} 
