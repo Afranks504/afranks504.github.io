@@ -4,7 +4,7 @@ import Button from '@material-ui/core/Button';
 class GetToken extends Component {
 
     tokenRequestUrl() {
-        const apiUrl = 'https://accounts.spotify.com/authorize';
+        const apiUrl = 'https://accounts.spotify.com';
         const clientId = '01dde9168baf4375afca1ab6390abf40';
         const scopes = ['playlist-modify-public'];
         //Don't want to pass parameters or hashes to spotify api
